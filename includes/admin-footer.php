@@ -1,0 +1,1 @@
+</main></div><footer class="admin-foot p-3 text-center">OVERSO Admin Panel · <a href="<?=base('admin/users.php')?>">Users</a></footer><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script><script src="<?=base('assets/js/script.js')?>"></script></body></html>
